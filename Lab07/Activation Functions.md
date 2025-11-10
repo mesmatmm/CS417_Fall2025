@@ -46,7 +46,7 @@ regression/classification).
 you can see how each one transforms input
 values:
 
-![img.png](img.png)
+![functions.png](functions.png)
 
 * **Linear** is a straight line (no activation).
 * **Binary Step** sharply switches between 0 and 1.
